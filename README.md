@@ -7,3 +7,5 @@
 
 
 ***Q3 How can PWM impact LED brightness or color?***
+
+***Q4. How does the process differ with the RGB LED vs. the simple LED on D7?***
